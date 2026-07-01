@@ -1,0 +1,50 @@
+"""Dashboard utilities for analytics and chart rendering."""
+
+from dashboard.analytics import (
+    build_summary,
+    compare_model_predictions,
+    compute_average_confidence,
+    compute_average_confidence_by_emotion,
+    compute_confidence_trend,
+    compute_daily_statistics,
+    compute_emotion_frequency,
+    compute_emotion_timeline,
+    compute_mixed_emotion_frequency,
+    compute_subject_distribution,
+    read_history,
+)
+from dashboard.charts import (
+    confidence_by_emotion_chart,
+    confidence_scores_chart,
+    confidence_trend_chart,
+    daily_trend_chart,
+    emotion_distribution_chart,
+    emotion_timeline_chart,
+    mixed_emotion_chart,
+    model_comparison_chart,
+    subject_distribution_chart,
+)
+
+__all__ = [
+    "read_history",
+    "compute_emotion_frequency",
+    "compute_average_confidence",
+    "compute_average_confidence_by_emotion",
+    "compute_confidence_trend",
+    "compute_daily_statistics",
+    "compute_emotion_frequency",
+    "compute_emotion_timeline",
+    "compute_mixed_emotion_frequency",
+    "compute_subject_distribution",
+    "compare_model_predictions",
+    "build_summary",
+    "emotion_distribution_chart",
+    "confidence_scores_chart",
+    "confidence_trend_chart",
+    "model_comparison_chart",
+    "daily_trend_chart",
+    "mixed_emotion_chart",
+    "subject_distribution_chart",
+    "emotion_timeline_chart",
+    "confidence_by_emotion_chart",
+]

@@ -1,0 +1,101 @@
+text,emotion
+I feel bored during this lecture because the examples are repetitive and the pace is too slow.,Bored
+This assignment feels dull and I am finding it hard to stay focused on the material.,Bored
+The class is monotonous and I keep zoning out while trying to follow the instructions.,Bored
+I am uninterested in this topic because it feels disconnected from the real world.,Bored
+The lesson is so sleepy that I cannot keep my attention on the slides anymore.,Bored
+I am not interested in reading another textbook chapter on the same concept.,Bored
+This workshop is boring and I cannot motivate myself to finish the exercise.,Bored
+The discussion is so dry that I keep daydreaming instead of participating.,Bored
+I am tired of the same repetitive tasks and I just want something more challenging.,Bored
+I cannot focus on this material because it feels too predictable and stale.,Bored
+I am confused about why this recurrence relation behaves differently from the previous one.,Confused
+I do not understand how to apply this theorem to the given example.,Confused
+I am stuck on the proof and I do not know what step to take next.,Confused
+The explanation is unclear and I am not sure how the pieces fit together.,Confused
+I am lost in the middle of the assignment and the instructions are not helping.,Confused
+I have no idea how to begin this coding problem and the requirements seem vague.,Confused
+This concept feels mixed up in my head and I cannot separate the parts.,Confused
+I am unsure whether I should use the formula or the alternative method.,Confused
+The lecture is confusing because the examples appear inconsistent with the theory.,Confused
+I cannot tell which approach is correct for this project requirement.,Confused
+I am curious about how neural networks learn patterns from labeled data.,Curious
+I want to explore this topic further because the examples seem fascinating.,Curious
+I am interested in understanding the reasoning behind this algorithm.,Curious
+I want to learn more about how this optimization works in practice.,Curious
+This idea excites me and I want to discover how it applies to real problems.,Curious
+I am eager to investigate the mathematical intuition behind this concept.,Curious
+I feel intrigued by the possibility of building a better solution from scratch.,Curious
+I want to discover whether the method generalizes to more complex datasets.,Curious
+I am fascinated by the connection between this theory and the coding task.,Curious
+I am keen to find out how this mechanism performs under different conditions.,Curious
+I am frustrated because the same bug keeps appearing despite multiple attempts.,Frustrated
+This project is making me annoyed because nothing seems to work correctly.,Frustrated
+I am upset that my code keeps failing and I cannot see the source of the error.,Frustrated
+The deadline is stressing me out and the instructions are not giving enough clarity.,Frustrated
+I am fed up with debugging this loop when it keeps producing the wrong output.,Frustrated
+I feel irritated that the environment is failing and I am losing time on small issues.,Frustrated
+Nothing works the way I expected and I do not know how to recover the progress.,Frustrated
+I am angry that the model keeps producing inconsistent results on the same input.,Frustrated
+This presentation is giving me a headache because every attempt breaks down.,Frustrated
+I am tired of fixing the same problem and I feel like I am wasting effort.,Frustrated
+I feel very confident now that I understand the structure of this solution.,Confident
+I solved the problem and I am comfortable explaining the approach to others.,Confident
+I have mastered the core idea and I can apply it without hesitation.,Confident
+I finally got it and I feel clear now about how to proceed.,Confident
+The answer is straightforward now that I see the pattern clearly.,Confident
+I am sure this method is correct because the output matches the expected result.,Confident
+I understand the reasoning and I can complete the remaining steps confidently.,Confident
+I am comfortable with this concept and I can teach it to a classmate.,Confident
+I solved the challenge and I feel ready to move to the next assignment.,Confident
+I am assured by the result because the implementation is now working smoothly.,Confident
+I feel bored during the coding exercise because the task is repetitive and the environment is dull.,Bored
+The lecture is too slow and the examples are so monotonous that I cannot stay engaged.,Bored
+I am uninterested in reviewing the same material again when I already know the basics.,Bored
+The presentation is so boring that I keep thinking about other things instead of listening.,Bored
+I do not care about this chapter because it is not challenging and it feels stale.,Bored
+The assignment feels uninteresting and I am drifting away from the work.,Bored
+I am sleepy and disconnected from this topic because the explanation is too basic.,Bored
+I keep zoning out during the demo because the pace is painfully slow.,Bored
+This topic is not interesting to me and I am struggling to keep attention on it.,Bored
+My mind wanders because the lesson feels repetitive and empty.,Bored
+I am confused by the proof and I do not know how the assumptions connect to the conclusion.,Confused
+I am lost on the final step of the derivation and the notes are not clarifying it.,Confused
+This code is confusing because the variable names do not reflect the logic clearly.,Confused
+I cannot understand why the output differs from the expected result on this test case.,Confused
+The instructions are unclear and I feel stuck halfway through the implementation.,Confused
+I have no idea what the correct parameter values should be for this function.,Confused
+The explanation seems mixed up to me because it jumps between several unrelated ideas.,Confused
+I am unsure whether the bug is in the training code or the evaluation script.,Confused
+I cannot follow the reasoning behind this optimization strategy at all.,Confused
+I am perplexed by the error because the same code worked in a previous project.,Confused
+I am curious about how to build a model that handles imbalanced classes well.,Curious
+I want to explore the tradeoffs between accuracy and interpretability in this method.,Curious
+I am interested in understanding how these features interact in the dataset.,Curious
+I want to discover whether the same idea can be applied to a different domain.,Curious
+This problem feels fascinating and I want to investigate the underlying pattern.,Curious
+I am eager to learn how the architecture changes when the input size increases.,Curious
+I feel intrigued by the possibility of improving this algorithm with better features.,Curious
+I want to explore the mathematical reasoning behind the optimization objective.,Curious
+I am fascinated by how this concept applies to real exam questions and assignments.,Curious
+I am keen to find out whether the approach scales beyond the toy example.,Curious
+I am frustrated because the environment keeps throwing errors before the model can train.,Frustrated
+This assignment is annoying because every change creates a new issue elsewhere.,Frustrated
+I am upset that the results are inconsistent even though the code looks correct.,Frustrated
+The project deadline is stressing me out because the implementation is not stable.,Frustrated
+I am fed up with the repeated failures and I wonder whether I should restart from scratch.,Frustrated
+Nothing works and I feel irritated that I cannot finish the submission on time.,Frustrated
+I am angry that the dataset preprocessing is causing the model to underperform.,Frustrated
+The debugging session is exhausting and I feel tired of chasing tiny mistakes.,Frustrated
+I am frustrated that the same issue keeps resurfacing despite all the fixes I tried.,Frustrated
+The presentation is making me stressed because I still have unresolved problems.,Frustrated
+I feel confident that I can finish this assignment after reviewing the examples.,Confident
+I solved the bug and I am comfortable walking through the fix with my team.,Confident
+I have mastered the core idea and I can now apply it to similar problems.,Confident
+I understand the method clearly and I feel ready to submit the solution.,Confident
+I am sure the implementation is correct because the test cases are passing.,Confident
+I finally got it and I can move on to the next part without hesitation.,Confident
+I am comfortable with this concept and I can explain it in simple terms.,Confident
+I solved the challenge and I feel assured about the final result.,Confident
+I am confident that the approach will generalize to the remaining tasks.,Confident
+I understand the pattern and I feel ready to present the solution to the class.,Confident
