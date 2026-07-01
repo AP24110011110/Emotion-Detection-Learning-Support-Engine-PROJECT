@@ -28,11 +28,39 @@ class Config:
         if not (api_key := os.getenv("GEMINI_API_KEY")):
             raise ValueError("GEMINI_API_KEY is missing from the environment")
 
-        csv_log_path = Path(os.getenv("CSV_LOG_PATH", "data/logs/session_history.csv"))
-        bilstm_model_path = Path(os.getenv("BILSTM_MODEL_PATH", "models/bilstm/bilstm_model.h5"))
-        bert_model_path = Path(os.getenv("BERT_MODEL_PATH", "models/bert/bert_model"))
-        tokenizer_path = Path(os.getenv("TOKENIZER_PATH", "models/tokenizer"))
-        max_history_records = int(os.getenv("MAX_HISTORY_RECORDS", "500"))
+        BASE_DIR = Path(__file__).resolve().parent.parent
+
+        csv_log_path = Path(
+            os.getenv(
+                "CSV_LOG_PATH",
+                str(BASE_DIR / "data/logs/session_history.csv"),
+            )
+        )
+
+        bilstm_model_path = Path(
+            os.getenv(
+                "BILSTM_MODEL_PATH",
+                str(BASE_DIR / "models/bilstm/bilstm_model.h5"),
+            )
+        )
+
+        bert_model_path = Path(
+            os.getenv(
+                "BERT_MODEL_PATH",
+                str(BASE_DIR / "models/bert/bert_model"),
+            )
+        )
+
+        tokenizer_path = Path(
+            os.getenv(
+                "TOKENIZER_PATH",
+                str(BASE_DIR / "models/tokenizer"),
+            )
+        )
+
+        max_history_records = int(
+            os.getenv("MAX_HISTORY_RECORDS", "500")
+        )
 
         return cls(
             gemini_api_key=api_key,
